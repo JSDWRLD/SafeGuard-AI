@@ -4,14 +4,14 @@ _(Transforming Safety with Real-Time Firearm Detection)_
 ## Introduction 🌟
 Welcome to SafeGuard AI, an award-winning software solution that addresses a critical issue in today's society: firearm detection in real-time using computer vision. Our solution integrates seamlessly with existing camera systems to provide a 1ms response time for detecting firearms, ensuring immediate alerts and potentially saving lives. 
 
-## Project Overview 
-### Problem Statement
+## Project Overview 🛠️
+### Problem Statement ❗
 In 2023 alone, the U.S. experienced 82 school shootings, with less than 1% of surveillance footage actively monitored 24/7. SafeGuard AI is designed to fill this critical gap in security.
 
 ### Solution 💡
 SafeGuard AI employs cutting-edge AI and transformative machine learning algorithms for real-time firearm detection and instant alerts to law enforcement and school officials. With a 1ms response time, our solution provides unparalleled security and peace of mind.
 
-### Technologies Used
+### Technologies Used 💻
 - **Python**
 - **PyTorch**
 - **Google Cloud A100 GPU**
@@ -19,7 +19,7 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - **RTSP Streaming**
 - **ONVIF SOAP Web Services**
 
-## Features
+## Features 🌐
 - Real-time firearm detection with 1ms response time
 - Immediate notification to school officials and law enforcement via Twilio API
 - Seamless integration with existing camera systems
@@ -37,13 +37,13 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 ![2nd Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/2nd%20Competition.jpg)
 - [Demo Video](https://streamable.com/o5kjw6)
 
-## Challenges
+## Challenges ⚙️
 One of the main challenges was enhancing model training efficiency. By utilizing Google Cloud A100 GPU, we slashed training duration from three weeks to under 72 hours, facilitating faster iterations and deployment. 
 
-## Future Plans
+## Future Plans 🚀
 We are preparing to launch a campus-wide pilot across 50+ existing surveillance systems using RTSP streaming. Our goal is to expand SafeGuard AI to high-security facilities and public spaces.
 
-## Acknowledgments
+## Acknowledgments 🙏
 - Thanks to the advisory board at Sacramento State for their support.
 - Inspired by the innovative spirit of our team and the potential to save lives. (＾▽＾)
 
