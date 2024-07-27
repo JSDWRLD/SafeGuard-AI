@@ -1,14 +1,14 @@
-# SafeGuard AI
+# SafeGuard AI 🚀
 _(Transforming Safety with Real-Time Firearm Detection)_
 
-## Introduction
+## Introduction 🌟
 Welcome to SafeGuard AI, an award-winning software solution that addresses a critical issue in today's society: firearm detection in real-time using computer vision. Our solution integrates seamlessly with existing camera systems to provide a 1ms response time for detecting firearms, ensuring immediate alerts and potentially saving lives. 
 
-## Project Overview
+## Project Overview 
 ### Problem Statement
 In 2023 alone, the U.S. experienced 82 school shootings, with less than 1% of surveillance footage actively monitored 24/7. SafeGuard AI is designed to fill this critical gap in security.
 
-### Solution
+### Solution 💡
 SafeGuard AI employs cutting-edge AI and transformative machine learning algorithms for real-time firearm detection and instant alerts to law enforcement and school officials. With a 1ms response time, our solution provides unparalleled security and peace of mind.
 
 ### Technologies Used
@@ -25,13 +25,13 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - Seamless integration with existing camera systems
 - Scalable to multiple surveillance systems
 
-## Achievements
+## Achievements 🏆
 - **1st & 2nd Place** in two tech competitions ($1,750)
 - **2nd Place** in a significant California-wide contest, outperforming top teams from 18 universities ($30,000)
 - Letters of intent from two schools to pilot SafeGuard AI
 - Sacramento State to pilot version one of our software
 
-## Images and Demos
+## Images and Demos 📸
 ![California Wide Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/California%20Wide%20Competition%20Winning.jpg)
 ![1st Hackathon Winning Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/1st%20Place%20Hackathon%20Win.jpg)
 ![2nd Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/2nd%20Competition.jpg)
@@ -47,7 +47,7 @@ We are preparing to launch a campus-wide pilot across 50+ existing surveillance 
 - Thanks to the advisory board at Sacramento State for their support.
 - Inspired by the innovative spirit of our team and the potential to save lives. (＾▽＾)
 
-## Speech Excerpt
+## Speech Excerpt 🎤
 **My Solo Pitch for SafeGuard AI to Judges**
 
 Good evening, judges. I'm John. I’m sure that 99% of the room knows of a person who is attending a school in the U.S. Perhaps one of your children. Frighteningly, in 2023 alone, the U.S. experienced 82 school shootings, and one of the major contributing factors is the fact that less than 1% of surveillance footage is actively monitored 24/7. Our solution, SafeGuard AI is designed to fill this critical gap in security.
