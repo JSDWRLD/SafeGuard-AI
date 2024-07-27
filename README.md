@@ -26,12 +26,12 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - Scalable to multiple surveillance systems
 
 ## Images and Demos
-![California Wide Competition Award](link-to-image-1)
-![1st Hackathon Winning Award](link-to-image-2)
-[Demo Video](link-to-video)
+- ![California Wide Competition Award](link-to-image-1)
+- ![1st Hackathon Winning Award](https://www.linkedin.com/posts/jsdwrld_im-usually-not-a-fan-of-social-media-platforms-activity-7182452631640887298-p5n1?utm_source=share&utm_medium=member_desktop)
+- [Demo Video](https://streamable.com/o5kjw6)
 
 ## Achievements
-- **1st Place** in two tech competitions ($1,750)
+- **1st & 2nd Place** in two tech competitions ($1,750)
 - **2nd Place** in a significant California-wide contest, outperforming top teams from 18 universities ($30,000)
 - Letters of intent from two schools to pilot SafeGuard AI
 - Sacramento State to pilot version one of our software
