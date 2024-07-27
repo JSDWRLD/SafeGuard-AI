@@ -26,8 +26,9 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - Scalable to multiple surveillance systems
 
 ## Images and Demos
-- ![California Wide Competition Award](link-to-image-1)
-- ![1st Hackathon Winning Award](https://www.linkedin.com/posts/jsdwrld_im-usually-not-a-fan-of-social-media-platforms-activity-7182452631640887298-p5n1?utm_source=share&utm_medium=member_desktop)
+![California Wide Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/California%20Wide%20Competition%20Winning.jpg)
+![1st Hackathon Winning Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/1st%20Place%20Hackathon%20Win.jpg)
+![2nd Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/2nd%20Competition.jpg)
 - [Demo Video](https://streamable.com/o5kjw6)
 
 ## Achievements
