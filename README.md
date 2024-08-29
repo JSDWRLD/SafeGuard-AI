@@ -17,7 +17,7 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - **Google Cloud A100 GPU**
 - **Twilio API**
 - **RTSP Streaming**
-- **ONVIF SOAP Web Services**
+- **SOAP Web Services**
 
 ## Features 🌐
 - Real-time firearm detection with 1ms response time
