@@ -51,7 +51,7 @@ We are preparing to launch a campus-wide pilot across 50+ existing surveillance 
 ## Speech Excerpt 🎤
 **My Solo Pitch for SafeGuard AI to Judges**
 
-Good evening, judges. I'm John. I’m sure that 99% of the room knows of a person who is attending a school in the U.S. Perhaps one of your children. Frighteningly, in 2023 alone, the U.S. experienced 82 school shootings, and one of the major contributing factors is the fact that less than 1% of surveillance footage is actively monitored 24/7. Our solution, SafeGuard AI is designed to fill this critical gap in security.
+Good evening, judges. I'm John Dong. I’m sure that 99% of the room knows of a person who is attending a school in the U.S. Perhaps one of your children. Frighteningly, in 2023 alone, the U.S. experienced 82 school shootings, and one of the major contributing factors is the fact that less than 1% of surveillance footage is actively monitored 24/7. Our solution, SafeGuard AI is designed to fill this critical gap in security.
 
 SafeGuard AI employs cutting-edge AI and transformative machine learning algorithms for real-time firearm detection and instant alerts to law enforcement and school officials. With a 1ms response time, this could mean the difference between saving a life or a tragedy.
 
