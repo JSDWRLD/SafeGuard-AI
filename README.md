@@ -32,11 +32,12 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - Sacramento State to pilot version one of our software
 
 ## Images and Demos 📸
+- [Demo Video](https://streamable.com/o5kjw6)
+- [Small Speech Clip](https://www.linkedin.com/posts/jsdwrld_on-march-29th-i-rallied-a-team-of-brilliant-activity-7193428879351447552-AL7x?utm_source=share&utm_medium=member_desktop)
+---------------------------
 ![California Wide Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/California%20Wide%20Competition%20Winning.jpg)
 ![1st Hackathon Winning Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/1st%20Place%20Hackathon%20Win.jpg)
 ![2nd Competition Award](https://github.com/JSDWRLD/SafeGuard-AI/blob/main/2nd%20Competition.jpg)
-- [Demo Video](https://streamable.com/o5kjw6)
-- [Small Speech Clip](https://www.linkedin.com/posts/jsdwrld_on-march-29th-i-rallied-a-team-of-brilliant-activity-7193428879351447552-AL7x?utm_source=share&utm_medium=member_desktop)
 
 ## Challenges ⚙️
 One of the main challenges was enhancing model training efficiency. By utilizing Google Cloud A100 GPU, we slashed training duration from three weeks to under 72 hours, facilitating faster iterations and deployment. 
