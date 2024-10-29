@@ -29,7 +29,7 @@ SafeGuard AI employs cutting-edge AI and transformative machine learning algorit
 - **1st & 2nd Place** in two tech competitions ($1,750)
 - **4 Awards** in a significant California-wide contest, outperforming top teams from 18 universities ($30,000)
 - Letters of intent from two schools to pilot SafeGuard AI
-- Sacramento State to pilot version one of our software
+- Sacramento State Pilot Software
 
 ## Images and Demos 📸
 - [Demo Video](https://streamable.com/o5kjw6)
