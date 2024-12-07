@@ -47,7 +47,7 @@ We are preparing to launch a campus-wide pilot across 50+ existing surveillance 
 
 ## Acknowledgments 🙏
 - Thanks to the advisory board at Sacramento State for their support.
-- Inspired by the innovative spirit of our team and the potential to save lives. (＾▽＾)
+- Inspired by the innovative spirit of our team and the potential to save lives. 
 
 ## Speech Excerpt 🎤
 **My Solo Pitch for SafeGuard AI to Judges**
