@@ -1,5 +1,5 @@
 # SafeGuard AI 🚀
-_(Transforming Safety with Real-Time Firearm Detection)_
+_Transforming Safety with Real-Time Firearm Detection_
 
 ## Introduction 🌟
 Welcome to SafeGuard AI, an award-winning software solution that addresses a critical issue in today's society: firearm detection in real-time using computer vision. Our solution integrates seamlessly with existing camera systems to provide a 1ms response time for detecting firearms, ensuring immediate alerts and reactions to safeguard lives. 
